@@ -1,0 +1,11 @@
+[
+    {
+        "user_id": "user123",
+        "movie_id": 19995,
+        "movie_title": "Avatar",
+        "liked": true,
+        "star_rating": 5,
+        "watch_duration": 120.5,
+        "timestamp": "2025-07-13T15:55:04.009517"
+    }
+]
