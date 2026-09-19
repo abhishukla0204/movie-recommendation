@@ -23,7 +23,7 @@ This is a full-stack movie recommendation system built using:
 
 ##  Screenshots
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main UI
 
@@ -64,7 +64,7 @@ This is a full-stack movie recommendation system built using:
 
 - Includes fallback logic if poster is missing.
 
-🔧 Run Instructions
+Run Instructions
 
 ```bash
 uvicorn main:app --reload
@@ -115,12 +115,12 @@ uvicorn main:app --reload
  ### Folder Structure
 ```css
 
-📦backend/
+backend/
  ┣ main.py
  ┣ recommendation_utils.py
  ┣ movie_data.csv
 
-📦app/
+app/
  ┣ adapter/
  ┃ ┣ SectionAdapter.kt
  ┃ ┣ MovieAdapter.kt
@@ -135,7 +135,7 @@ uvicorn main:app --reload
  ┣ MovieDetailActivity.kt
 
 ```
-💡 Tech Stack
+Tech Stack
 Android (Kotlin, Retrofit, RecyclerView)
 
 FastAPI (Python)
